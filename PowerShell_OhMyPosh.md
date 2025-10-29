@@ -6,6 +6,8 @@
 - Aliases e funções úteis
 - Ambiente pronto pra Git, Docker, Node
 
+https://ohmyposh.dev/docs/
+
 ---
 
 ## 🪟 **1️⃣ Instalar o PowerShell moderno (se ainda não tiver)**
